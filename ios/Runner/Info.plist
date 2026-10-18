@@ -59,7 +59,7 @@
 		<key>io.flutter.embedded_views_preview</key>
 		<true />
 		<key>GMSApiKey</key>
-		<string>AIzaSyB-zLKgzm_cAuO_JELFr7Hehve4nCUv5E4</string>
+		<string>$(MAPS_API_KEY)</string>
 		<key>NSLocationWhenInUseUsageDescription</key>
 		<string>This app requires your location to show nearby users.</string>
 		<key>NSLocationAlwaysUsageDescription</key>
